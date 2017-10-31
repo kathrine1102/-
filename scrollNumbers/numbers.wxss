@@ -1,0 +1,28 @@
+.number
+{
+  width: 656rpx; height: 84rpx; text-align: center;
+  font-family: 苹方;
+  margin: 12rpx auto;
+}
+.scroll-view_H
+{
+  white-space: nowrap;
+}
+.scroll-view_H view
+{
+  width: 82rpx; height: 82rpx;
+  line-height: 82rpx; text-align: center;
+  color: #fff; background-color: #81d6f5;
+  margin: 0rpx 16rpx;
+  border-radius: 50%;
+  display: inline-block;
+}
+.scroll-view_H view:first-child
+{
+  margin-left: 0rpx; 
+  background-color: #3ec0ef;
+}
+.scroll-view_H view:last-child
+{
+  margin-right: 0rpx;
+}
